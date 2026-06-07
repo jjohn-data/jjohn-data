@@ -2,7 +2,7 @@
 
 I'm an aspiring Data Analyst from Germany with a background in Industrial Mechatronics.
 
-Currently, I'm building my data analytics skills through hands-on projects while completing the IBM Data Analyst Professional Certificate.
+Currently, I'm building my data analytics portfolio through hands-on projects after completing the IBM Data Analyst Professional Certificate.
 
 ---
 

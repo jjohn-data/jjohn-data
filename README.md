@@ -69,6 +69,22 @@ I enjoy transforming raw data into meaningful insights and building projects tha
 
 ---
 
-## 📚 Currently Learning
+## Certifications
 
-IBM Data Analyst Professional Certificate (Coursera)
+### IBM Data Analyst Professional Certificate (Coursera / IBM)
+
+Completed the full IBM Data Analyst Professional Certificate consisting of 11 courses covering:
+
+* Data Analytics Fundamentals
+* Excel for Data Analysis
+* Data Visualization & Dashboards
+* Python
+* SQL & Relational Databases
+* Data Analysis with Python
+* Data Visualization with Python
+* Capstone Project
+* Generative AI for Data Analysts
+* Career & Interview Preparation
+
+Key technologies:
+Python, SQL, Excel, Jupyter Notebook, IBM Cognos Analytics, Data Visualization, Exploratory Data Analysis and Dashboard Development.
